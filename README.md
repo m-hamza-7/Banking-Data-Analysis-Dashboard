@@ -62,10 +62,29 @@ Analyzed banking transaction data using Python (EDA), SQL (cleaning), and Power 
 
 ## Visualizations
 
-- **Loan vs. Deposit Overview** - Interactive tabs compare total loans (4.38B) and deposits (3.77B).
-- **Customer Segmentation** - Breakdown by gender, income band, and occupation.
-- **Trend Analysis (2013–2021)** - Time-based filters show yearly account growth and business lending trends.
-- 
+<ol>
+  <li>
+    <strong>Loan vs. Deposit Overview</strong>
+    <ul>
+      <li>Interactive tabs (<code>Loan Analysis</code>, <code>Deposit Analysis</code>, <code>Summary</code>) compare <strong>total loans (4.38B)</strong> and <strong>deposits (3.77B)</strong>.</li>
+      <li><em>Image: Dashboard homepage with key metrics and toggle filters.</em></li>
+    </ul>
+  </li>
+  <li>
+    <strong>Customer Segmentation</strong>
+    <ul>
+      <li>Breakdown by <strong>gender</strong>, <strong>income band</strong> (e.g., 53.12% loans from medium-income clients), and <strong>occupation</strong>.</li>
+      <li><em>Image: "Bank Loan by Income Band" pie chart and occupation bar charts.</em></li>
+    </ul>
+  </li>
+  <li>
+    <strong>Trend Analysis (2013–2021)</strong>
+    <ul>
+      <li>Time-based filters show yearly trends in <strong>account growth</strong> (checking vs. savings) and <strong>business lending (2.60B)</strong>.</li>
+      <li><em>Image: "Joining Year" filter with stacked column charts.</em></li>
+    </ul>
+  </li>
+</ol>
 <ul>
   <li> # Loan vs. Deposit Overview</li>
   <li><a href="https://github.com/m-hamza-7/Data-Analysis-Dashboard/commit/36e56d9d5cda3ded7a9ac54d820507dd3ee428cf">Daily Trend for Orders</a></li>
