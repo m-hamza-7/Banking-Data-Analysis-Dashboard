@@ -74,7 +74,7 @@ Analyzed banking transaction data using Python (EDA), SQL (cleaning), and Power 
     <strong>Customer Segmentation</strong>
     <ul>
       <li>Breakdown by <strong>gender</strong>, <strong>income band</strong> and <strong>occupation</strong>.</li>
-      <li><em>Image: "Bank Loan by Income Band" pie chart and occupation bar charts.</em></li>
+      <li><a href="https://github.com/m-hamza-7/Banking-Data-Analysis-Dashboard/blob/main/Loan%20Analysis.png"><em>Image: "Bank Loan by Income Band" pie chart and occupation bar charts.</em></a></li>
     </ul>
   </li>
   <li>
