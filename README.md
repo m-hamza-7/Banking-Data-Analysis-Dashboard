@@ -60,23 +60,3 @@ Analyzed banking transaction data using Python (EDA), SQL (cleaning), and Power 
   </tbody>
 </table>
 
-<!-- Optional: Minimal CSS for better rendering in browsers -->
-<style>
-  table {
-    border-collapse: collapse;
-    width: 100%;
-    margin: 15px 0;
-    font-family: Arial, sans-serif;
-  }
-  th, td {
-    border: 1px solid #ddd;
-    padding: 8px;
-    text-align: left;
-  }
-  th {
-    background-color: #f2f2f2;
-  }
-  strong {
-    color: #333;
-  }
-</style>
