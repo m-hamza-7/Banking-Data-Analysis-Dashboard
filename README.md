@@ -151,3 +151,9 @@ Analyzed banking transaction data using Python (EDA), SQL (cleaning), and Power 
     </ul>
   </li>
 </ol>
+
+## Dashboard
+
+### Home
+![Home](https://github.com/user-attachments/assets/6078b01d-6ad8-43fc-acea-83f3f6fad7e3)
+
