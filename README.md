@@ -124,3 +124,30 @@ Analyzed banking transaction data using Python (EDA), SQL (cleaning), and Power 
     </ul>
   </li>
 </ol>
+
+<!-- Technologies Used Section -->
+## Technologies Used
+
+<ol>
+  <li>
+    <strong>Data Analysis & EDA</strong>
+    <ul>
+      <li>Python (<code>pandas</code>, <code>numpy</code>, <code>matplotlib/seaborn</code>)</li>
+      <li>Jupyter Notebook</li>
+    </ul>
+  </li>
+  <li>
+    <strong>Data Processing</strong>
+    <ul>
+      <li>SQL (Data cleaning & aggregation)</li>
+      <li>Excel (Data validation & preliminary analysis)</li>
+    </ul>
+  </li>
+  <li>
+    <strong>Visualization & Dashboarding</strong>
+    <ul>
+      <li>Power BI (Interactive dashboards)</li>
+      <li>DAX (Custom metrics & calculations)</li>
+    </ul>
+  </li>
+</ol>
