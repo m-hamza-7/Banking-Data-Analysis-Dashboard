@@ -157,3 +157,10 @@ Analyzed banking transaction data using Python (EDA), SQL (cleaning), and Power 
 ### Home
 ![Home](https://github.com/user-attachments/assets/6078b01d-6ad8-43fc-acea-83f3f6fad7e3)
 
+### Loan Analysis
+![Loan Analysis](https://github.com/user-attachments/assets/ccdf436b-54e9-4c69-b082-3c2eedad9834)
+
+### Deposit Analysis
+![Deposit Analysis](https://github.com/user-attachments/assets/84703db6-4e18-4bbc-affe-4e3d6d857a76)
+
+
