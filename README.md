@@ -60,3 +60,16 @@ Analyzed banking transaction data using Python (EDA), SQL (cleaning), and Power 
   </tbody>
 </table>
 
+## Visualizations
+
+<ul>
+  <li> #Loan vs. Deposit Overview</li>
+  <li><a href="https://github.com/m-hamza-7/Data-Analysis-Dashboard/commit/36e56d9d5cda3ded7a9ac54d820507dd3ee428cf">Daily Trend for Orders</a></li>
+</ul>
+  <li><a href="https://github.com/m-hamza-7/Data-Analysis-Dashboard/blob/main/HourlyTrends.png">Hourly Trend for Orders</a></li>
+  <li><a href="https://github.com/m-hamza-7/Data-Analysis-Dashboard/blob/main/sales%20by%20category.png">Sales by Pizza Category</a></li>
+  <li><a href="https://github.com/m-hamza-7/Data-Analysis-Dashboard/blob/main/Sales%20by%20size.png">Sales by Pizza Size</a></li>
+  <li><a href="https://github.com/m-hamza-7/Data-Analysis-Dashboard/blob/main/Top5.png">Top 5 Best-Selling</a></li>
+  <li><a href="https://github.com/m-hamza-7/Data-Analysis-Dashboard/blob/main/Worst5.png">Bottom 5 Worst-Selling</a></li>
+  
+</ul>
