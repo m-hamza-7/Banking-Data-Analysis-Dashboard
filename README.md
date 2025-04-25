@@ -63,7 +63,7 @@ Analyzed banking transaction data using Python (EDA), SQL (cleaning), and Power 
 ## Visualizations
 
 <ul>
-  <li> #Loan vs. Deposit Overview</li>
+ # <li>Loan vs. Deposit Overview</li>
   <li><a href="https://github.com/m-hamza-7/Data-Analysis-Dashboard/commit/36e56d9d5cda3ded7a9ac54d820507dd3ee428cf">Daily Trend for Orders</a></li>
 </ul>
   <li><a href="https://github.com/m-hamza-7/Data-Analysis-Dashboard/blob/main/HourlyTrends.png">Hourly Trend for Orders</a></li>
