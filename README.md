@@ -81,7 +81,7 @@ Analyzed banking transaction data using Python (EDA), SQL (cleaning), and Power 
     <strong>Trend Analysis (2013–2021)</strong>
     <ul>
       <li>Time-based filters show yearly trends in <strong>account growth</strong> (checking vs. savings) and <strong>business lending</strong>.</li>
-      <li><a href="https://github.com/m-hamza-7/Banking-Data-Analysis-Dashboard/blob/main/Deposit%20Analysis.png"><em>Image: "Bank Loan by Income Band" pie chart and occupation bar charts.</em></a></li>
+      <li><a href="https://github.com/m-hamza-7/Banking-Data-Analysis-Dashboard/blob/main/Deposit%20Analysis.png"><em>Image: "Joining Year" filter with stacked column charts.</em></a></li>
     </ul>
   </li>
 </ol>
