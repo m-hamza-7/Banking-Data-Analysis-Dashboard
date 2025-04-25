@@ -85,3 +85,42 @@ Analyzed banking transaction data using Python (EDA), SQL (cleaning), and Power 
     </ul>
   </li>
 </ol>
+
+<!-- Dashboard Insights Section -->
+## Dashboard Insights
+
+<ol>
+  <li>
+    <strong>Loan Analysis</strong>
+    <ul>
+      <li><strong>Income Band Impact</strong>:
+        <ul>
+          <li>Medium-income clients contributed <strong>53.12% (942.49M)</strong> of loans.</li>
+          <li>High-income clients accounted for <strong>25.26% (446.19M)</strong>.</li>
+        </ul>
+      </li>
+      <li><strong>Occupation Trends</strong>: Business lending dominated (<strong>2.60B</strong>).</li>
+      <li><strong>Nationality/Risk</strong>: [Add specific insights from your data].</li>
+    </ul>
+  </li>
+  <li>
+    <strong>Deposit Analysis</strong>
+    <ul>
+      <li><strong>Income Band Distribution</strong>:
+        <ul>
+          <li>Medium-income clients held <strong>54.17% (1.00B)</strong> of deposits.</li>
+          <li>Low-income clients contributed <strong>21.05% (0.62B)</strong>.</li>
+        </ul>
+      </li>
+      <li><strong>Account Preferences</strong>: Checking accounts (<strong>963.28M</strong>) > Savings (<strong>698.73M</strong>).</li>
+    </ul>
+  </li>
+  <li>
+    <strong>Customer Segmentation</strong>
+    <ul>
+      <li><strong>Banking Relationships</strong>: Retail, Private Bank, Commercial.</li>
+      <li><strong>Gender Split</strong>: Female vs. Male client ratios.</li>
+      <li><strong>Yearly Trends</strong>: Growth from <strong>2013–2021</strong>.</li>
+    </ul>
+  </li>
+</ol>
