@@ -66,14 +66,14 @@ Analyzed banking transaction data using Python (EDA), SQL (cleaning), and Power 
   <li>
     <strong>Loan vs. Deposit Overview</strong>
     <ul>
-      <li>Interactive tabs (<code>Loan Analysis</code>, <code>Deposit Analysis</code>, <code>Summary</code>) compare <strong>total loans (4.38B)</strong> and <strong>deposits (3.77B)</strong>.</li>
+      <li>Interactive tabs (<code>Loan Analysis</code>, <code>Deposit Analysis</code>) compare <strong>total loans </strong> and <strong>deposits</strong>.</li>
       <li><em>Image: Dashboard homepage with key metrics and toggle filters.</em></li>
     </ul>
   </li>
   <li>
     <strong>Customer Segmentation</strong>
     <ul>
-      <li>Breakdown by <strong>gender</strong>, <strong>income band</strong> (e.g., 53.12% loans from medium-income clients), and <strong>occupation</strong>.</li>
+      <li>Breakdown by <strong>gender</strong>, <strong>income band</strong> and <strong>occupation</strong>.</li>
       <li><em>Image: "Bank Loan by Income Band" pie chart and occupation bar charts.</em></li>
     </ul>
   </li>
@@ -85,14 +85,3 @@ Analyzed banking transaction data using Python (EDA), SQL (cleaning), and Power 
     </ul>
   </li>
 </ol>
-<ul>
-  <li> # Loan vs. Deposit Overview</li>
-  <li><a href="https://github.com/m-hamza-7/Data-Analysis-Dashboard/commit/36e56d9d5cda3ded7a9ac54d820507dd3ee428cf">Daily Trend for Orders</a></li>
-</ul>
-  <li><a href="https://github.com/m-hamza-7/Data-Analysis-Dashboard/blob/main/HourlyTrends.png">Hourly Trend for Orders</a></li>
-  <li><a href="https://github.com/m-hamza-7/Data-Analysis-Dashboard/blob/main/sales%20by%20category.png">Sales by Pizza Category</a></li>
-  <li><a href="https://github.com/m-hamza-7/Data-Analysis-Dashboard/blob/main/Sales%20by%20size.png">Sales by Pizza Size</a></li>
-  <li><a href="https://github.com/m-hamza-7/Data-Analysis-Dashboard/blob/main/Top5.png">Top 5 Best-Selling</a></li>
-  <li><a href="https://github.com/m-hamza-7/Data-Analysis-Dashboard/blob/main/Worst5.png">Bottom 5 Worst-Selling</a></li>
-  
-</ul>
