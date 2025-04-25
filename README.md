@@ -67,7 +67,7 @@ Analyzed banking transaction data using Python (EDA), SQL (cleaning), and Power 
     <strong>Loan vs. Deposit Overview</strong>
     <ul>
       <li>Interactive tabs (<code>Loan Analysis</code>, <code>Deposit Analysis</code>) compare <strong>total loans </strong> and <strong>deposits</strong>.</li>
-      <li><em>Image: Dashboard homepage with key metrics and toggle filters.</em></li>
+      <li><a href="https://github.com/m-hamza-7/Banking-Data-Analysis-Dashboard/blob/main/Home.png"><em>Image: Dashboard homepage with key metrics and toggle filters.</em></a></li>
     </ul>
   </li>
   <li>
@@ -80,7 +80,7 @@ Analyzed banking transaction data using Python (EDA), SQL (cleaning), and Power 
   <li>
     <strong>Trend Analysis (2013–2021)</strong>
     <ul>
-      <li>Time-based filters show yearly trends in <strong>account growth</strong> (checking vs. savings) and <strong>business lending (2.60B)</strong>.</li>
+      <li>Time-based filters show yearly trends in <strong>account growth</strong> (checking vs. savings) and <strong>business lending</strong>.</li>
       <li><em>Image: "Joining Year" filter with stacked column charts.</em></li>
     </ul>
   </li>
